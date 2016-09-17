@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "crontab", "crontab\crontab.csproj", "{FD7248E7-2319-4458-8F5F-B11A02095CC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "crontab_test", "crontab_test\crontab_test.csproj", "{0CB82958-2D04-4838-A252-C936546AE69D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD7248E7-2319-4458-8F5F-B11A02095CC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD7248E7-2319-4458-8F5F-B11A02095CC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD7248E7-2319-4458-8F5F-B11A02095CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD7248E7-2319-4458-8F5F-B11A02095CC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CB82958-2D04-4838-A252-C936546AE69D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CB82958-2D04-4838-A252-C936546AE69D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CB82958-2D04-4838-A252-C936546AE69D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CB82958-2D04-4838-A252-C936546AE69D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
