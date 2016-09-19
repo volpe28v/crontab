@@ -32,6 +32,11 @@
   <ItemGroup>
     <Compile Include="Crontab.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Schedule.cs" />
+    <Compile Include="Fields\Month.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Fields\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

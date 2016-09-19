@@ -34,6 +34,7 @@
   <ItemGroup>
     <Compile Include="Test.cs" />
     <Compile Include="ChainingAssertion.NUnit.cs" />
+    <Compile Include="MonthTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
